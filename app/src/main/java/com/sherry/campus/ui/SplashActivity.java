@@ -19,7 +19,6 @@ public class SplashActivity extends AppCompatActivity {
         auth = FirebaseAuth.getInstance();
 
         FirebaseUser firebaseUser = auth.getCurrentUser();
-        //firebaseUser.getUid();
 
         if(firebaseUser != null){
             //Toast.makeText(this,"User Exists "+firebaseUser.getUid(),Toast.LENGTH_LONG).show();
