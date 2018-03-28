@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "678832063044",
+    "firebase_url": "https://campus-734c7.firebaseio.com",
+    "project_id": "campus-734c7",
+    "storage_bucket": "campus-734c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678832063044:android:e480372e64361107",
+        "android_client_info": {
+          "package_name": "com.sherry.campus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678832063044-s84ts78mbusgipudv3aso86ks02l8o54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAblSW0Mz1sVKgcBroykwHLag7Bxqkhtp0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
